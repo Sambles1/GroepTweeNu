@@ -3,6 +3,7 @@ public class App {
         System.out.println("anus");
         if(1 == 3){
             System.out.println("je oma dik");
+            System.out.println("en lelijk");
         }
     }
 }
