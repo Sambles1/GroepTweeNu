@@ -54,10 +54,22 @@
       <workItem from="1585564522554" duration="1376000" />
       <workItem from="1585651219107" duration="1300000" />
     </task>
+    <task id="LOCAL-00001" summary="ja hoor">
+      <created>1585652746475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585652746476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ja hoor" />
+    <option name="LAST_COMMIT_MESSAGE" value="ja hoor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1585652494466">
@@ -72,6 +84,10 @@
       <screen x="0" y="0" width="1919" height="1040" />
     </state>
     <state x="756" y="405" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585652610860" />
+    <state x="571" y="114" key="CommitChangelistDialog2" timestamp="1585652746005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585652746005" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585564710882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -85,6 +101,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585564760933" />
+    <state x="672" y="311" key="git4idea.merge.GitPullDialog" timestamp="1585653498413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585653498413" />
     <state x="342" y="140" key="new project wizard" timestamp="1585564558908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
