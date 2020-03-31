@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f78ecb08-f543-452d-8f92-2cede0ca1090" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectTabel/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/projectTabel/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -51,34 +52,18 @@
       <option name="presentableId" value="Default" />
       <updated>1585564521247</updated>
       <workItem from="1585564522554" duration="1376000" />
-      <workItem from="1585651219107" duration="1789000" />
-      <workItem from="1585653026653" duration="87000" />
+      <workItem from="1585651219107" duration="1300000" />
     </task>
-    <task id="LOCAL-00001" summary="anus is niet cool">
-      <created>1585653064876</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1585653064876</updated>
-    </task>
-    <task id="LOCAL-00002" summary="anus is niet cool">
-      <created>1585653087438</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1585653087438</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="anus is niet cool" />
-    <option name="LAST_COMMIT_MESSAGE" value="anus is niet cool" />
-  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1585652494466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585652494466" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585565277011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -87,28 +72,15 @@
       <screen x="0" y="0" width="1919" height="1040" />
     </state>
     <state x="756" y="405" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585652610860" />
-    <state x="497" y="94" key="CommitChangelistDialog2" timestamp="1585653086912">
-      <screen x="0" y="0" width="1919" height="1040" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585564710882">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="497" y="94" key="CommitChangelistDialog2/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585653086912" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585653112680">
-      <screen x="0" y="0" width="1919" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585653112680" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585564710882" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585652910574">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585651315457">
       <screen x="0" y="0" width="1919" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585652910574" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585651315457" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585567281877" />
-    <state x="727" y="236" key="VCS.ChangeListViewerDialog" timestamp="1585653103731">
-      <screen x="0" y="0" width="1919" height="1040" />
-    </state>
-    <state x="727" y="236" key="VCS.ChangeListViewerDialog/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585653103731" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585653027679">
-      <screen x="0" y="0" width="1919" height="1040" />
-    </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585653027679" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585564760933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
