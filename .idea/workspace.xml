@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585564521247</updated>
       <workItem from="1585564522554" duration="1376000" />
-      <workItem from="1585651219107" duration="827000" />
+      <workItem from="1585651219107" duration="1300000" />
     </task>
     <servers />
   </component>
@@ -61,6 +61,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585565277011" />
+    <state x="756" y="405" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585652610860">
+      <screen x="0" y="0" width="1919" height="1040" />
+    </state>
+    <state x="756" y="405" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585652610860" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585564710882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
