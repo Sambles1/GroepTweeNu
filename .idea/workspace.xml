@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78ecb08-f543-452d-8f92-2cede0ca1090" name="Default Changelist" comment="is ze ook niet">
-      <change afterPath="$PROJECT_DIR$/projectTabel/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f78ecb08-f543-452d-8f92-2cede0ca1090" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projectTabel/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/projectTabel/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectTabel/src/NumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/projectTabel/src/NumberGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +24,6 @@
   <component name="ProjectId" id="1ZqRDts0Qu6XQIyQ9JcbbQO06mZ" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,24 +36,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="projectTabel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,10 +53,7 @@
       <updated>1585564521247</updated>
       <workItem from="1585564522554" duration="1376000" />
       <workItem from="1585651219107" duration="1300000" />
-      <workItem from="1585827370221" duration="1172000" />
-      <workItem from="1585829491329" duration="126000" />
-      <workItem from="1585829652467" duration="795000" />
-      <workItem from="1585830458706" duration="58000" />
+      <workItem from="1585827672877" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="ja hoor">
       <created>1585652746475</created>
@@ -90,35 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585653846054</updated>
     </task>
-    <task id="LOCAL-00003" summary="is ze ook niet">
-      <created>1585654218338</created>
+    <task id="LOCAL-00003" summary="ja hoor3">
+      <created>1585654093563</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1585654218338</updated>
+      <updated>1585654093563</updated>
     </task>
-    <task id="LOCAL-00004" summary="is ze ook niet">
-      <created>1585654553387</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1585654553387</updated>
-    </task>
-    <task id="LOCAL-00005" summary="is ze ook niet">
-      <created>1585654631843</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1585654631843</updated>
-    </task>
-    <task id="LOCAL-00006" summary="is ze ook niet">
-      <created>1585827386924</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1585827386924</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,14 +85,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ja hoor" />
     <MESSAGE value="ja hoor2" />
-    <MESSAGE value="is ze ook niet" />
-    <option name="LAST_COMMIT_MESSAGE" value="is ze ook niet" />
+    <MESSAGE value="ja hoor3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ja hoor3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1585830515826">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1585652494466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585830515826" />
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585652494466" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585565277011">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -144,35 +101,36 @@
       <screen x="0" y="0" width="1919" height="1040" />
     </state>
     <state x="756" y="405" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585652610860" />
-    <state x="571" y="114" key="CommitChangelistDialog2" timestamp="1585829333833">
+    <state x="571" y="114" key="CommitChangelistDialog2" timestamp="1585654093152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585654631304" />
-    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585829333833" />
-    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585653845632" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585830512581">
+    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585654093152" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585564710882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585830512581" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585651315457">
-      <screen x="0" y="0" width="1919" height="1040" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585564710882" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585827725012">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585651315457" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585567281877" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585829331048">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585827725012" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585654117548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585654634667" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585829331048" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585653875625" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585654117548" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585827673279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585827673279" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585564760933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585564760933" />
-    <state x="672" y="311" key="git4idea.merge.GitPullDialog" timestamp="1585653498413">
+    <state x="672" y="311" key="git4idea.merge.GitPullDialog" timestamp="1585654245257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="672" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585653498413" />
+    <state x="672" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585654245257" />
     <state x="342" y="140" key="new project wizard" timestamp="1585564558908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
