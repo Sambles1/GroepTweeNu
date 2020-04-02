@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78ecb08-f543-452d-8f92-2cede0ca1090" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Table/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Table/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/src/Randomgetal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Table/src/Randomgetal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585834376847</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ik heb de files opgedeeld">
+      <created>1585834464565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585834464565</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,10 +211,10 @@
       <screen x="0" y="0" width="1919" height="1040" />
     </state>
     <state x="756" y="405" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585652610860" />
-    <state x="571" y="114" key="CommitChangelistDialog2" timestamp="1585834376342">
+    <state x="571" y="114" key="CommitChangelistDialog2" timestamp="1585834464080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834376342" />
+    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834464080" />
     <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585654093152" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585564710882">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -241,10 +250,10 @@
     <state x="461" y="162" key="SettingsEditor/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585651315457" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585567281877" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585832288340" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585834461621">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585834466471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834461621" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834466471" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585654117548" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585832238717">
       <screen x="0" y="0" width="1920" height="1040" />

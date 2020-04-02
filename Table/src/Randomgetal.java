@@ -1,12 +1,13 @@
 public class Randomgetal {
-    public int kaas(){
+    public int[] getArray(){
+        int[] getal = new int[10000];
         int totaal = 100000;
         for (int i = 0; i < totaal; i++) {
             double randomizedRaw = 1 + Math.random() * 10000;
             int randomized = (int) randomizedRaw;
-            System.out.println(randomized);
+            getal[i] = randomized;
+            //System.out.println(randomized);
         }
-
-        return totaal;
+        return getal;
     }
 }
