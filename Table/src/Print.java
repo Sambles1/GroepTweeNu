@@ -6,3 +6,6 @@ public class Print {
         }
     }
 }
+
+//hier kan je alle getallen in je array printen vanuit de parameters
+//de opmaak van het tabel moet hier ook gebeuren
