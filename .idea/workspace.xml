@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78ecb08-f543-452d-8f92-2cede0ca1090" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Table/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="GroepTweeNu" />
@@ -81,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.helloCruelWorld (1)" />
         <item itemvalue="Application.helloCruelWorld" />
         <item itemvalue="Application.HelloWorld" />
@@ -146,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585833384731</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ik heb het aantal gecapped op 10000 inplaats van dat het 80000 kon zijn">
+      <created>1585833709053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585833709053</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ik heb het aantal gecapped op 10000 inplaats van dat het 80000 kon zijn">
+      <created>1585833911782</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585833911782</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,34 +195,34 @@
       <screen x="0" y="0" width="1919" height="1040" />
     </state>
     <state x="756" y="405" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585652610860" />
-    <state x="571" y="114" key="CommitChangelistDialog2" timestamp="1585833708414">
+    <state x="571" y="114" key="CommitChangelistDialog2" timestamp="1585833911246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833708414" />
+    <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833911246" />
     <state x="571" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585654093152" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585564710882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585564710882" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585833831377">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585834196483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833831377" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834196483" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585832141108" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585833831377">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585834196483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833831377" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834196483" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585832141107" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585833831376">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585834196482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833831376" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834196482" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585832141107" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585833831377">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585834196483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833831377" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585834196483" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585832141107" />
     <state x="489" y="172" key="MultipleFileMergeDialog" timestamp="1585833826453">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -220,10 +234,10 @@
     <state x="461" y="162" key="SettingsEditor/0.0.1919.1040/1920.0.1280.984@0.0.1919.1040" timestamp="1585651315457" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585567281877" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585832288340" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585833908735">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585833913583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833908735" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1585833913583" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585654117548" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585832238717">
       <screen x="0" y="0" width="1920" height="1040" />
