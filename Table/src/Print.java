@@ -1,8 +1,42 @@
 public class Print {
-    public void print(int[] array){
-        int x = array.length;
-        for (int i = 0; i < x; i++){
-            System.out.println(array[i]);
+    public void print(int[] array) {
+        int x = array.length / 10;
+        int y = 0;
+        System.out.println();
+        for (int i = 0; i < x; i++) {
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.print(" ");
+            System.out.print(array[y]);
+            y++;
+            System.out.println(" ");
         }
     }
 }
