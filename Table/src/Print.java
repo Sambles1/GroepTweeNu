@@ -32,9 +32,6 @@ public class Print {
             System.out.print(" ");
             System.out.print(array[y]);
             y++;
-            System.out.print(" ");
-            System.out.print(array[y]);
-            y++;
             System.out.println(" ");
         }
     }
