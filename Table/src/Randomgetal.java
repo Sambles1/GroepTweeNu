@@ -10,3 +10,4 @@ public class Randomgetal {
         return getal;
     }
 }
+// hallo ik wil dood
