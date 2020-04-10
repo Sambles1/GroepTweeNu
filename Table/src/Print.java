@@ -25,6 +25,7 @@ public class Print {
             y++;
             System.out.println("");
             System.out.println(x);
+            
         }
     }
 }

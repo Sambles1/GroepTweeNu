@@ -3,20 +3,10 @@ import java.util.*;
 class RandomisedQuicksort
 {
     public static int N = 5;
-    public static int[] arr = new int[N];
 
     // This Function helps in calculating random  
     // numbers between low(inclusive) and high(inclusive) 
-    void random(int low,int high)
-    {
 
-        Random rand= new Random();
-        int pivot = rand.nextInt(high-low) + low;
-
-        int temp1=arr[pivot];
-        arr[pivot]=arr[high];
-        arr[high]=temp1;
-    }
       
     /* This function takes last element as pivot,  
     places the pivot element at its correct  
