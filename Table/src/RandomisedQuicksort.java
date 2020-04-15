@@ -11,7 +11,7 @@ class RandomisedQuicksort
 
     int partition(int arr[], int low, int high) //low = 0, high is array length-1
     {
-        // pivot is choosen randomly 
+        //pivot is de laatste in het array
         int pivot = arr[high]; //5
 
         int i = (low-1); // index of smaller element  i is dus nu -1
@@ -70,7 +70,7 @@ class RandomisedQuicksort
     // Driver code  
     public static void main(String args[])
     {
-        int arr[] = {10, 7, 8, 9, 1, 5};
+        int arr[] = {10, 7, 8, 9, 1, 3};
         int n = arr.length; //6
 
         RandomisedQuicksort ob = new RandomisedQuicksort();

@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
+        App app = new App();
         Randomgetal getal = new Randomgetal();
         int[] array = getal.getArray();
         Print print = new Print();
@@ -11,9 +12,11 @@ public class App {
         Scanner input = new Scanner(System.in);
         String answer = input.next();
 
+        app.sort(array); //code met meneer
+
 
         if (answer.equals("Quicksort")) {
-            //quicksort goes here
+
             System.out.println("Quicksort done!");
         } else if (answer.equals("Bogosort")) {
             //bogosort goes here
@@ -25,4 +28,23 @@ public class App {
             System.out.println("input not valid!");
         }
     }
+
+    public int[] sort(int[] array){
+        for (int i = 0; i < array.length; i++){
+            for (int j = i; j < array.length; j++){
+                if (array[i] < array[j]){
+                    int temp;
+                    temp = array[j];
+                    array[j] = array[i];
+                    array[i] = temp;
+                }
+                else {
+                    break;
+                }
+            }
+        }
+        return array;
+    }
 }
+
+
