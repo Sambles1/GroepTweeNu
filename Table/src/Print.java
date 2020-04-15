@@ -24,7 +24,7 @@ public class Print {
             System.out.print(" " + array[y]);
             y++;
             System.out.println("");
-            System.out.println(x);
+
             
         }
     }

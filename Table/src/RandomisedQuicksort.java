@@ -2,12 +2,6 @@ import java.util.*;
 
 class RandomisedQuicksort
 {
-    public static int N = 5;
-
-    // This Function helps in calculating random  
-    // numbers between low(inclusive) and high(inclusive) 
-
-      
     /* This function takes last element as pivot,  
     places the pivot element at its correct  
     position in sorted array, and places all  
@@ -15,12 +9,12 @@ class RandomisedQuicksort
     pivot and all greater elements to right  
     of pivot */
 
-    int partition(int arr[], int low, int high)
+    int partition(int arr[], int low, int high) //low = 0, high is array length-1
     {
         // pivot is choosen randomly 
-        int pivot = arr[high];
+        int pivot = arr[high]; //5
 
-        int i = (low-1); // index of smaller element  
+        int i = (low-1); // index of smaller element  i is dus nu -1
         for (int j = low; j < high; j++)
         {
             // If current element is smaller than or  
@@ -51,7 +45,7 @@ class RandomisedQuicksort
     high --> Ending index */
     void sort(int arr[], int low, int high)
     {
-        if (low < high)
+        if (low < high) //low = 0, high is array length-1
         {  
             /* pi is partitioning index, arr[pi] is  
             now at right place */
@@ -77,10 +71,10 @@ class RandomisedQuicksort
     public static void main(String args[])
     {
         int arr[] = {10, 7, 8, 9, 1, 5};
-        int n = arr.length;
+        int n = arr.length; //6
 
         RandomisedQuicksort ob = new RandomisedQuicksort();
-        ob.sort(arr, 0, n-1);
+        ob.sort(arr, 0, n-1); //5
 
         System.out.println("sorted array");
         printArray(arr);

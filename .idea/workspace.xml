@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e10cfc0c-95a0-460d-b6f7-8e5952040d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Table/src/RandomisedQuicksort.java" afterDir="false" />
+    <list default="true" id="e18e4a26-fde1-4f28-a815-4d3ce4b484c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Table/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/src/RandomisedQuicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Table/src/RandomisedQuicksort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomisedQuicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomisedQuicksort" />
+      <module name="GroepTweeNu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="untitled" />
@@ -58,10 +66,12 @@
     <list>
       <item itemvalue="Application.App" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.RandomisedQuicksort" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.RandomisedQuicksort" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -78,7 +88,7 @@
       <updated>1585833796687</updated>
     </task>
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e10cfc0c-95a0-460d-b6f7-8e5952040d41" name="Default Changelist" comment="" />
+      <changelist id="e18e4a26-fde1-4f28-a815-4d3ce4b484c3" name="Default Changelist" comment="" />
       <created>1586169096431</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -86,6 +96,8 @@
       <workItem from="1586169099252" duration="6831000" />
       <workItem from="1586179038647" duration="1548000" />
       <workItem from="1586511028013" duration="2488000" />
+      <workItem from="1586890773801" duration="69000" />
+      <workItem from="1586945307458" duration="298000" />
     </task>
     <task id="LOCAL-00002" summary="yes">
       <created>1586171045386</created>
@@ -108,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586512165774</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="de laatste 10 getallen werden niet uigeprint dat kwam door een oplossing die ik had geprobeerd om de out of bounds exeption op te lossen maar dat was niet meer nodig">
+      <created>1586513712056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586513712057</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,36 +137,43 @@
     <MESSAGE value="yes" />
     <MESSAGE value="geen oob error meer" />
     <MESSAGE value="input vraag voor sorts" />
-    <option name="LAST_COMMIT_MESSAGE" value="input vraag voor sorts" />
+    <MESSAGE value="de laatste 10 getallen werden niet uigeprint dat kwam door een oplossing die ik had geprobeerd om de out of bounds exeption op te lossen maar dat was niet meer nodig" />
+    <option name="LAST_COMMIT_MESSAGE" value="de laatste 10 getallen werden niet uigeprint dat kwam door een oplossing die ik had geprobeerd om de out of bounds exeption op te lossen maar dat was niet meer nodig" />
   </component>
   <component name="WindowStateProjectService">
     <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586179045474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586179045474" />
-    <state x="902" y="107" key="CommitChangelistDialog2" timestamp="1586512165327">
+    <state x="391" y="107" key="CommitChangelistDialog2" timestamp="1586513711099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="391" y="107" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586513711099" />
     <state x="902" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586512165327" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586512883405">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586890837535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586890837535" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586512883405" />
-    <state width="1877" height="304" key="GridCell.Tab.0.bottom" timestamp="1586512014745">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586530584012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586530584012" />
     <state width="1877" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586512014745" />
-    <state width="1877" height="304" key="GridCell.Tab.0.center" timestamp="1586512014745">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586530584012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586530584012" />
     <state width="1877" height="304" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586512014745" />
-    <state width="1877" height="304" key="GridCell.Tab.0.left" timestamp="1586512014745">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586530584012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586530584012" />
     <state width="1877" height="304" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586512014745" />
-    <state width="1877" height="304" key="GridCell.Tab.0.right" timestamp="1586512014745">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586530584012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586530584012" />
     <state width="1877" height="304" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586512014745" />
     <state x="672" y="236" key="MultipleFileMergeDialog" timestamp="1586511257918">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -157,21 +183,24 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586177748234" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586512172896">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586513714041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586513714041" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586512172896" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586511028199">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586890774342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586890774342" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586511028199" />
     <state x="672" y="311" key="git4idea.merge.GitPullDialog" timestamp="1586511273073">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="672" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586511273073" />
-    <state x="342" y="140" key="new project wizard" timestamp="1586512892770">
+    <state x="342" y="140" key="new project wizard" timestamp="1586890839444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1586890839444" />
     <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586512892770" />
   </component>
 </project>
