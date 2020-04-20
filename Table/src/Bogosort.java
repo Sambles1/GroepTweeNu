@@ -1,9 +1,12 @@
 public class Bogosort {
     public void Bogosort(int[] array) {
+        Print print = new Print();
+
         int temp;
         int check = 0;
         boolean sorted = false;
 
+        System.out.println("de bogoaids is aan het werk");
         do {
             //2 random posities
             double z = Math.random() * array.length;
@@ -33,5 +36,7 @@ public class Bogosort {
             }
         }
         while (!sorted);
+
+        print.print(array);
     }
 }
