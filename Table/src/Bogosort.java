@@ -33,7 +33,6 @@ public class Bogosort {
 
             }
 
-
             //for (int i = 0; i > array.length; i++) {
             //    int u = 1;
 
