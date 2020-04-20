@@ -6,6 +6,7 @@ public class App {
         Randomgetal getal = new Randomgetal();
         int[] array = getal.getArray();
         Print print = new Print();
+        print.print(array);
         Bogosort bogosort = new Bogosort();
         bogosort.Bogosort(array);
         //print.print(array);
