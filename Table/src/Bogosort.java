@@ -6,8 +6,9 @@ public class Bogosort {
         int check = 0;
         boolean sorted = false;
 
-        System.out.println("de bogoaids is aan het werk");
+
         do {
+            System.out.println("de bogoaids is aan het werk");
             //2 random posities
             double z = Math.random() * array.length;
             double a = Math.random() * array.length;
