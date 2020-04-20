@@ -7,8 +7,8 @@ public class App {
         int[] array = getal.getArray();
         Print print = new Print();
         print.print(array);
-        //Bogosort bogosort = new Bogosort();
-        //bogosort.Bogosort(array);
+        Bogosort bogosort = new Bogosort();
+        bogosort.Bogosort(array);
 
 
         System.out.println("Which sorting would you like to use?");
