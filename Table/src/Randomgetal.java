@@ -3,7 +3,7 @@ public class Randomgetal {
         int totaal = 1000;  //het aantal getallen wat word toevegoegt aan het array en ook de groote van array bepaald
         int[] getal = new int[totaal];
         for (int i = 0; i < totaal; i++) {
-            double randomizedRaw = 1 + Math.random() * 10000;
+            double randomizedRaw = 1 + Math.random() * 20;
             int randomized = (int) randomizedRaw;
             getal[i] = randomized;
         }

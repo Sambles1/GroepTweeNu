@@ -3,12 +3,11 @@ public class Bogosort {
         Print print = new Print();
 
         int temp;
-        int check = 0;
         boolean sorted = false;
 
 
         do {
-            System.out.println("de bogoaids is aan het werk");
+            int check = 0;
             //2 random posities
             double z = Math.random() * array.length;
             double a = Math.random() * array.length;
@@ -20,17 +19,18 @@ public class Bogosort {
             array[x] = array[y];
             array[y] = temp;
 
-            for (int u = 0; u > array.length - 1; u++) {
+           // print.print(array);
+
+            for (int u = 0; u < array.length - 1; u++) {
                 if (array[u] > array[u + 1]) {
                     break;
                 } else {
                     check++;
                     if (check >= array.length - 1) {
                         sorted = true;
-                        break;
+                        print.print(array);
                     }
                 }
-
             }
 
             //for (int i = 0; i > array.length; i++) {
