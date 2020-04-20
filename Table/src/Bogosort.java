@@ -3,6 +3,7 @@ public class Bogosort {
         Print print = new Print();
         int temp;
         boolean sorted = false;
+        System.out.println("bogo start");
 
 
         do {
@@ -28,6 +29,7 @@ public class Bogosort {
                     if (check >= array.length - 1) {
                         sorted = true;
                         print.print(array);
+                        System.out.println("ik ben klaar");
                     }
                 }
             }
