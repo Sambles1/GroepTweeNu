@@ -13,7 +13,7 @@ public class Bubble {
                     sorted = false;
                 }
             }
-            print.print(array);
         }
+        print.print(array);
     }
 }

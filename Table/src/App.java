@@ -6,12 +6,8 @@ public class App {
         Bogosort bogosort = new Bogosort();
         Randomgetal getal = new Randomgetal();
         Bubble bubble = new Bubble();
-        Print print = new Print();
 
         int[] array = getal.getArray();
-
-
-
 
         System.out.println("Which sorting would you like to use?");
         System.out.println("[ Quicksort / Bogosort / Bubblesort ]");
