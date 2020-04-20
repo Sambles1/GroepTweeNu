@@ -6,6 +6,8 @@ public class App {
         Randomgetal getal = new Randomgetal();
         int[] array = getal.getArray();
         Print print = new Print();
+        Bogosort bogosort = new Bogosort();
+        bogosort.Bogosort(array);
         //print.print(array);
 
         System.out.println("Which sorting would you like to use?");
@@ -14,21 +16,11 @@ public class App {
         String answer = input.next();
 
         app.sort(array); //code met meneer
+        int[] array2 = app.sort(array);
+        print.print(array2); //poginen die niet werken
 
 
-        // if (answer.equals("Quicksort")) {
 
-        //     System.out.println("Quicksort done!");
-        // } else if (answer.equals("Bogosort")) {
-        //     //bogosort goes here
-////      System.out.println("Bogosort done!");
-        // } else if (answer.equals("Bubblesort")) {
-        //     //bubblesort goes here
-////      System.out.println("Bubblesort done!");
-        // } else {
-        //     System.out.println("input not valid!");
-        // }
-        //
 
 
     }
@@ -46,7 +38,6 @@ public class App {
                 }
             }
         }
-
         return array2;
     }
 }
