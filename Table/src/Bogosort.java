@@ -1,7 +1,6 @@
 public class Bogosort {
     public void Bogosort(int[] array) {
         Print print = new Print();
-
         int temp;
         boolean sorted = false;
 
@@ -19,7 +18,7 @@ public class Bogosort {
             array[x] = array[y];
             array[y] = temp;
 
-           // print.print(array);
+
 
             for (int u = 0; u < array.length - 1; u++) {
                 if (array[u] > array[u + 1]) {
