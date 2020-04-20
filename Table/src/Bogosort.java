@@ -20,22 +20,36 @@ public class Bogosort {
             array[x] = array[y];
             array[y] = temp;
 
-
-            for (int i = 0; i > array.length; i++) {
-                int u = 1;
-
-                if (array[i] > array[u]) {
+            for (int u = 0; u > array.length - 1; u++) {
+                if (array[u] > array[u + 1]) {
+                    break;
+                } else {
                     check++;
-                    System.out.println("check");
+                    if (check >= array.length - 1) {
+                        sorted = true;
+                        break;
+                    }
                 }
-                else{
-                    break;
-                }
-                if (check == array.length) {
-                    sorted = true;
-                    break;
-                }
+
             }
+
+
+            //for (int i = 0; i > array.length; i++) {
+            //    int u = 1;
+
+            //    if (array[i] > array[u]) {
+            //        check++;
+            //        System.out.println("check");
+            //    }
+            //    if (check == array.length) {
+            //        sorted = true;
+            //        break;
+            //    }
+            //    else{
+            //        break;
+            //    }
+
+            //  }
         }
         while (!sorted);
 
