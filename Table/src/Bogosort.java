@@ -6,8 +6,8 @@ public class Bogosort {
 
         do {
             //2 random posities
-            double z = 1 + Math.random() * array.length;
-            double a = 1 + Math.random() * array.length;
+            double z = Math.random() * array.length;
+            double a = Math.random() * array.length;
             int x = (int) z;
             int y = (int) a;
 
