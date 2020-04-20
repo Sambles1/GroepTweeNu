@@ -26,6 +26,7 @@ public class Bogosort {
 
                 if (array[i] > array[u]) {
                     check++;
+                    System.out.println("check");
                 }
                 else{
                     break;

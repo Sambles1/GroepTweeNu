@@ -9,7 +9,7 @@ public class App {
         print.print(array);
         Bogosort bogosort = new Bogosort();
         bogosort.Bogosort(array);
-        //print.print(array);
+
 
         System.out.println("Which sorting would you like to use?");
         System.out.println("[ Quicksort / Bogosort / Bubblesort ]");
@@ -19,11 +19,6 @@ public class App {
         app.sort(array); //code met meneer
         int[] array2 = app.sort(array);
         print.print(array2); //poginen die niet werken
-
-
-
-
-
     }
 
     public int[] sort(int[] array2) {
